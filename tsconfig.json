@@ -11,6 +11,12 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    "paths": {
+      "ng-pomodoro-timer": [
+        "dist/ng-pomodoro-timer/ng-pomodoro-timer",
+        "dist/ng-pomodoro-timer"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
